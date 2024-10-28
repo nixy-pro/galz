@@ -1,0 +1,19 @@
+{
+  "name": "XyroHost",
+  "version": "4.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index --number"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "link-preview-js": "^3.0.5",
+    "node-webpmux": "^3.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

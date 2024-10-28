@@ -1,0 +1,14 @@
+{
+  "name": "XYRO NESIA",
+  "number": "",
+  "features": {
+    "broadcast": { "status": true, "blacklist": ["6289603693479"], "text": "" },
+    "pushContacts": {
+      "status": true,
+      "blacklist": ["6289603693479"],
+      "text": ""
+    },
+    "antiCall": { "status": true },
+    "safeMode": { "status": false }
+  }
+}
